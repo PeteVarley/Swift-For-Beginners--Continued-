@@ -20,5 +20,5 @@
 
 import UIKit
 
-var str = "Hello, playground" // This statement creates a variable.
+var str: String = "Hello, playground" // This statement creates a variable.
 
